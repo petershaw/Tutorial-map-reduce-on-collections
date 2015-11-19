@@ -92,12 +92,7 @@ power of two (https://en.wikipedia.org/wiki/Power_of_two)
 
 ## Different Thought 
 
-Well my first thought in my functional programming world was map/reduce the plu's to 
-it's corresponding bit values, while my colleague was more on the iterating side of this
-town. 
-Well nothing is more or less correct until you do one way right. There is no one 
-final solution to this problem. There are many ways. I present one way in this post,
-a way that i do like the most. That does not ment that this is the best one. 
+Well my first thought was a functional programming one. I found is reasonable to  map/reduce the PLUs to it's corresponding bit values, while my colleague was more on the iterating side of this town. Well nothing is more or less correct. One or the other way is good. There is no one final solution to this problem. There are many ways. I present one way in this post, a approach that i do like the most. That does not mean that this is the best one.
 
 
 ## Implementation
