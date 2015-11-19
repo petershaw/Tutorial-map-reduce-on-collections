@@ -1,0 +1,24 @@
+{
+	"author": "Peter Shaw",
+	"repository": {
+		"url": "https://github.com/petershaw/Tutorial-map-reduce-on-collections",
+		"type": "git"
+	},
+	"dependencies": {
+		"underscore": "^1.8.3"
+	},
+	"name": "datacrunching-explained",
+	"version": "1.0.0",
+	"license": "ISC",
+	"description": "JavaScript Tutorial : map reduce on collections - avoid nested iterrations like foreach",
+	"main": "source.js",
+	"keywords": [
+		"map",
+		"reduce",
+		"explained",
+		"annotated"
+	],
+	"scripts": {
+		"start": "node source.js"
+	}
+}
