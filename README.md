@@ -93,7 +93,7 @@ power of two (https://en.wikipedia.org/wiki/Power_of_two)
 ## Different Thought 
 
 Well my first thought in my functional programming world was map/reduce the plu's to 
-it's corresponding bit values, while my college was more on the iterating side of this
+it's corresponding bit values, while my colleague was more on the iterating side of this
 town. 
 Well nothing is more or less correct until you do one way right. There is no one 
 final solution to this problem. There are many ways. I present one way in this post,
