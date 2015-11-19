@@ -1,4 +1,4 @@
-# JavaaScript Tutorial : map reduce on collections - avoid nested iterrations like foreach
+# JavaScript Tutorial : map reduce on collections - avoid nested iterrations like foreach
 
 This is a possible solution for a module that solves a problem from a real life 
 implementation my company have today. The code is perfect to show some functional 
